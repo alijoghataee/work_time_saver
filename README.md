@@ -1,0 +1,1 @@
+I was not able to found a tool for saving my work time as I want, so I make just a simple one
